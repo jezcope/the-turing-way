@@ -7,6 +7,15 @@
 | -------------|----------|------|
 | Chapter/topic | How important it is | Any notes |
 
+## Table of Contents
+
+1. [Summary](#summary)
+2. [How this will help you/why this is useful?](#how-this-will-help-you-why-this-is-useful)
+3. [Chapter content](#chapter-content)
+4. [Checklist](#checklist)
+5. [What to learn next](#what-to-learn-next)
+6. [Further reading](#further-reading)
+
 ## Summary
 > easy to understand summary - a bit like tl;dr
 
